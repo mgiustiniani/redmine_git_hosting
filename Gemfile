@@ -26,7 +26,7 @@ gem 'RedCloth'
 gem 'org-ruby'
 gem 'creole'
 gem 'asciidoctor'
-gem 'rdoc', '>= 2.4.2'
+# gem 'rdoc', '>= 2.4.2'
 
 # Rack parser for Hrack
 gem 'rack-parser', require: 'rack/parser'
